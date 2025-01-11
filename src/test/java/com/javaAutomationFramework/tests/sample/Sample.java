@@ -1,4 +1,4 @@
-package com.javaAutomationFramework.tests;
+package com.javaAutomationFramework.tests.sample;
 
 public class Sample
 {
